@@ -1,6 +1,7 @@
 # On-line-DouBan-QA-Systems
 
 豆瓣知识问答环境部署和配置文档
+
 一、	软件运行需求：
 Python2+、java8.0+、neo4j-community-3.5.23、Scrapy爬虫框架、Django、命名实体识别工具LAC
 
